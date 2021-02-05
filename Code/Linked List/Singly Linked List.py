@@ -75,4 +75,4 @@ class SinglyLinkedList:
                 return v
             v = v.next
         return v
-    
+
